@@ -1,0 +1,21 @@
+#result{
+  display: none;
+  background-color: white;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.resultname{
+  font-size: 24px;
+  color: rgb(255, 0, 140);
+}
+
+.resultDesc{
+  font-size: 18px;
+}
+
+h1{
+  font-family: 'Moirai One', cursive;
+  font-size: 35px;
+}
